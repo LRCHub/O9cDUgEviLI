@@ -1,0 +1,77 @@
+# DJ TATSUKI – City of Dreams
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Tokyo Tokyo Big City of Dreams
+今日も誰かの夢が弾けるstreets
+Tokyo Tokyo Big City of Dreams
+簡単に崩せない俺らのteam
+敵は昨日の自分だけ
+だから1 don't care hater
+what you say
+What you say, what you say,
+what you say
+What you say, what you say,
+what you say
+渋谷の地下で磨いてたんだ牙
+あの日が境DJTATSUKIとLink up
+東京先人たちデカい背中
+追いかけて俺らが繋ぐドラマ
+初めてのBOOTSTREET中学の時
+3枚で1000円台買ったMIX CD
+培った経験にこそある資産価値
+チェーンなくても東京だと
+取れない肩凝り
+生きてる間には終わらなそう
+俺たちの成長期と渋谷の工事
+文化村通りで空ける茶割り
+道玄坂みたい右肩上がり
+眠らない東京24時間営業
+外国じゃないのに飛び交ってる英語
+週末に散らかした俺らのshow
+まるで事件現場でも残さない証拠
+Tokyo Tokyo Big City of Dreams
+今日も誰かの夢が弾けるstreets
+Tokyo Tokyo Big City of Dreams
+簡単に崩せない俺らのteam
+敵は昨日の自分だけ
+だから1 don't care hater
+what you say
+What you say, what you say,
+what you say
+What you say, what you say,
+what you say
+ハナから興味も無い他所の芝生
+鼻と泥水啜りSurvive, In my hood
+美味い話に影がチラつく
+裏を見て表歩く美学
+東京23西から東
+みんなが背負ってる地元の期待
+叩いてるお尻とビックマウス
+ネズミのように追う
+Cheddar cheese （Huh？）
+渦巻いてる夢と欲望
+人にたかってばかりじゃ
+パパ活女子
+黙って立ってる
+大久保公園通り
+そのままじゃ道端転がるゴミ
+職質のように囲まれるファン
+次は俺たちが夢見せる番
+（東京）
+駆け抜けるビルとビル
+（東京）
+仲間と見るCity of Dreams
+Tokyo Tokyo Big City of Dreams
+今日も誰かの夢が弾けるstreets
+Tokyo Tokyo Big City of Dreams
+簡単に崩せない俺らのteam
+敵は昨日の自分だけ
+だから1 don't care hater
+what you say
+What you say, what you say,
+what you say
+What you say, what you say,
+what you say
+```
