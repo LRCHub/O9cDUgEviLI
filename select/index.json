@@ -1,0 +1,113 @@
+{
+  "version": 1,
+  "base_track": "City of Dreams",
+  "base_artist": "DJ TATSUKI",
+  "createdAt": "2026-03-31T09:07:06.458376Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "City of Dreams",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/01_City_of_Dreams_Talking_Heads.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "City of Dreams",
+      "artist": "Miracle Of Sound",
+      "has_synced": true,
+      "path": "select/02_City_of_Dreams_Miracle_Of_Sound.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "City of Dreams",
+      "artist": "Miracle Of Sound",
+      "has_synced": false,
+      "path": "select/03_City_of_Dreams_Miracle_Of_Sound.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "City of Dreams (radio edit)",
+      "artist": "Dirty South feat. Alesso & Ruben Haze",
+      "has_synced": true,
+      "path": "select/04_City_of_Dreams_(radio_edit)_Dirty_South_feat._Alesso_&_Ruben_Haze.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "City Of Dreams (Radio Edit)",
+      "artist": "Dirty South, Alesso, Ruben Haze",
+      "has_synced": true,
+      "path": "select/05_City_Of_Dreams_(Radio_Edit)_Dirty_South,_Alesso,_Ruben_Haze.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "City Of Dreams (Radio Edit) (feat. Ruben Haze)",
+      "artist": "Dirty South, Alesso, Ruben Haze",
+      "has_synced": true,
+      "path": "select/06_City_Of_Dreams_(Radio_Edit)_(feat._Ruben_Haze)_Dirty_South,_Alesso,_Ruben_Haze.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "City Of Dreams (Radio Edit)",
+      "artist": "Dirty South",
+      "has_synced": true,
+      "path": "select/07_City_Of_Dreams_(Radio_Edit)_Dirty_South.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "City of Dreams",
+      "artist": "Talking Heads",
+      "has_synced": true,
+      "path": "select/08_City_of_Dreams_Talking_Heads.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beneath The City Of Dreams",
+      "artist": "Calexico",
+      "has_synced": true,
+      "path": "select/09_Beneath_The_City_Of_Dreams_Calexico.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "City of Dreams",
+      "artist": "Bill Fay",
+      "has_synced": true,
+      "path": "select/10_City_of_Dreams_Bill_Fay.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "City of Dreams",
+      "artist": "Delta Heavy",
+      "has_synced": true,
+      "path": "select/11_City_of_Dreams_Delta_Heavy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "City of Dreams - Remix",
+      "artist": "DJ TATSUKI, $MOKE OG, 018",
+      "has_synced": false,
+      "path": "select/pl_01_City_of_Dreams_-_Remix_DJ_TATSUKI,_$MOKE_OG,_018.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "City of Dreams",
+      "artist": "DJ TATSUKI",
+      "has_synced": false,
+      "path": "select/localdb_01_City_of_Dreams_DJ_TATSUKI.txt",
+      "repo_name": "JYDsh8OezwQ"
+    }
+  ]
+}
